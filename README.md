@@ -1,5 +1,3 @@
-# HitboxHero.github.io
-
 # Alex Kastigar
 
 Computer Science ePortfolio
