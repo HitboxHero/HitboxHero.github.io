@@ -4,4 +4,4 @@
 
 Computer Science ePortfolio
 
-Welcome to my CS 499 ePortfolio. This site will include my capstone artifacts, enhancement narratives, code review, and professional self-assessment.
+This is my CS 499 ePortfolio site. I will be using this space to share my capstone work, including my code review, enhancement narratives, project artifacts, and professional self-assessment.
