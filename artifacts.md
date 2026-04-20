@@ -10,8 +10,8 @@ This page provides direct access to the original artifact, enhanced artifact, mi
 
 ### Core Artifact Files
 
-- [Original Artifact ZIP](./downloads/SecureRastrear-Original-Artifact.zip)
-- [Enhanced Artifact ZIP](./downloads/SecureRastrear-Enhanced-Artifact.zip)
+- [Original Artifact ZIP](https://github.com/HitboxHero/HitboxHero.github.io/releases/download/v1.0/SecureRastrear-Original-Artifact.zip)
+- [Enhanced Artifact ZIP](https://github.com/HitboxHero/HitboxHero.github.io/releases/download/v1.0/SecureRastrear-Enhanced-Artifact.zip)
 
 ### Narrative Documents
 
