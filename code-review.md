@@ -14,7 +14,7 @@ The code review also served as the planning foundation for the three enhancement
 
 ## Code Review Video
 
-- [Watch the Code Review Video](PASTE-YOUR-CODE-REVIEW-VIDEO-LINK-HERE)
+- [Watch the Code Review Video](https://youtu.be/dLhdiZ1yUYk)
 
 ## Supporting Material
 
